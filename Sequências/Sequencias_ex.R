@@ -1,0 +1,1 @@
+emprestimos <- sample(1:30, size = 5) # de 100 pedidos de empréstimo, você notou que 30 desses 1oo, recebem acima de 10 salários minimos, desses 30, você irá selecionar aleatóriamente 5 para receber uma oferta de empréstimo adicional
